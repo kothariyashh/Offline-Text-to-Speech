@@ -52,7 +52,6 @@ This project is a Text-to-Speech (TTS) application using a generative AI. It all
 - Convert and play text using the Text-to-Speech engine.
 - Save the converted audio as a WAV file.
 
-Feel free to contribute to the project and make it even better!
 
 ## Credits
 
@@ -62,4 +61,6 @@ Feel free to contribute to the project and make it even better!
 
 ## Youtube link:
 
-##SCREENSHOTS
+# SCREENSHOTS
+
+<img width="451" alt="image" src="https://github.com/kothariyashh/Offline-Text-to-Speech/assets/95516314/e37e2bb3-518c-498c-a6b1-091ceaf387b8">
