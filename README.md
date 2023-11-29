@@ -63,4 +63,5 @@ This project is a Text-to-Speech (TTS) application using a generative AI. It all
 
 # SCREENSHOTS
 
-<img width="451" alt="image" src="https://github.com/kothariyashh/Offline-Text-to-Speech/assets/95516314/e37e2bb3-518c-498c-a6b1-091ceaf387b8">
+<img width="460" alt="image" src="https://github.com/kothariyashh/Offline-Text-to-Speech/assets/95516314/908800ca-3a01-43e9-90b6-219e94440bb1">
+
