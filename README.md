@@ -23,7 +23,7 @@ This project is a Text-to-Speech (TTS) application using a generative AI. It all
 1. Run the application by executing the following command in the terminal:
 
     ```bash
-    python text_to_speech.py
+    python Project.py
     ```
 
 2. Enter the text you want to convert into audio in the provided ScrolledText widget.
