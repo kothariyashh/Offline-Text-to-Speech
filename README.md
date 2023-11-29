@@ -8,8 +8,8 @@ This project is a Text-to-Speech (TTS) application using a generative AI. It all
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/kothariyashh/text-to-speech-generative-ai.git
-    cd text-to-speech-generative-ai
+    git clone https://github.com/kothariyashh/offline-Text-to-Speech.git
+    cd offline-text-to-speech
     ```
 
 2. Install the required dependencies by running the following command in the terminal:
