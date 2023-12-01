@@ -8,7 +8,7 @@ This project is a Text-to-Speech (TTS) application using a generative AI. It all
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/text-to-speech-generative-ai.git
+   // git clone https://github.com/your-usernam/offline-text-to-speech-generative-ai.git
     cd text-to-speech-generative-ai
      ```
 
