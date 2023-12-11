@@ -58,7 +58,7 @@ This project is a Text-to-Speech (TTS) application using a generative AI. It all
 
 # Youtube link for reference
 
-## Youtube link:
+## Youtube link:https://youtu.be/SmhmxzIaK8Q
 
 # SCREENSHOTS
 
